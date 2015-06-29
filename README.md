@@ -1,0 +1,2 @@
+# Sudoku
+deal with Sudoku
